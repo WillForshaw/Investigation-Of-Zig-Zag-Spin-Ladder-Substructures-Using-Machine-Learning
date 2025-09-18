@@ -4,9 +4,4 @@ Simulations + ML for frustrated magnetism in zig-zag spin ladders. Python comput
 
 Python code to compute magnetisation curves via a 4×4 transfer matrix and export `Gridmatrix.csv` for a phase diagram; plus a notebook with an ML classifier on curve features.
 
-## Quick start
-```bash
-pip install -r requirements.txt
-python src/magnetisation.py   # or open the notebook
-
 
