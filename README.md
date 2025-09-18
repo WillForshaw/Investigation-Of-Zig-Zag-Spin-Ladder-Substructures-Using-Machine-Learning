@@ -4,4 +4,5 @@ Simulations + ML for frustrated magnetism in zig-zag spin ladders. Python comput
 
 Python code to compute magnetisation curves via a 4×4 transfer matrix and export `Gridmatrix.csv` for a phase diagram; plus a notebook with an ML classifier on curve features.
 
+Unfortunately my structure files can't be uploaded to github as there are too many, but if you want to use this cod, .cif files are avaliable for free on numerous websites, topospro software was used to process all of the structures and return only ones that have a high chance of containing the desired topology. Topospro is also free. 
 
